@@ -1,0 +1,2 @@
+# How to view/read function 
+    Just put cursor on function name, press command key and click on that function
